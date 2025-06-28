@@ -91,7 +91,7 @@ $title = 'Login - Sistema de Pets';
                         <div class="mt-4 text-center">
                             <small class="text-muted">
                                 <i class="fas fa-info-circle me-1"></i>
-                                Dados de teste: admin@petshop.com / 123456
+                                Dados de teste: admin@petshop.com / password
                             </small>
                         </div>
                     </div>
